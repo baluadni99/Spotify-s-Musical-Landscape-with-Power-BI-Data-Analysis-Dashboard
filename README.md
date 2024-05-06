@@ -1,6 +1,6 @@
 Spotify's Musical Landscape with Power BI Data Analysis Dashboard:
 
-In a world where music transcends boundaries and emotions, understanding the nuances of listener preferences is akin to deciphering the eheartbeat of society. With Spotify, one of the world's leading music streaming platforms, data becomes the melody that guides this journey. The Power BI data analysis dashboard will help us understand some of the top trends from the 2023 dataset obtained from Data___ website. Thanks to #Ruth Kingsley in providing a detailed and a beginer friendly insight to building an interactive and an exciting dashboard.
+In a world where music transcends boundaries and emotions, understanding the nuances of listener preferences is akin to deciphering the eheartbeat of society. With Spotify, one of the world's leading music streaming platforms, data becomes the melody that guides this journey. The Power BI data analysis dashboard will help us understand some of the top trends from the 2023 dataset obtained from Onyx Data website. Thanks to Ruth Kingsley's youtube videos in providing a detailed and a beginer friendly insight to building an interactive and an exciting dashboard.
 
 KEY INSIGHTS
 
